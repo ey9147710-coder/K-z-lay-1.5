@@ -1,0 +1,6 @@
+{
+  "name": "KIZILAY: Asırlık Şefkat ve Cephe Simülasyonu",
+  "description": "1868 Mecruhîn-i Askeriyye ve Hilâl-i Ahmer Cemiyeti'nden 93 Harbi, Genişletilmiş İstanbul Antrepo Baskınları, Katmanlı Kurtuluş Savaşı ve 2023 Kahramanmaraş Yeniden İnşa Sürecine uzanan 3B Tarihî Strateji ve İnsani Yardım Simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
